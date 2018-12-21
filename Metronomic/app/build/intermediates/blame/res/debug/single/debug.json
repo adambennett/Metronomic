@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\build\\intermediates\\res\\merged\\debug\\raw_the_kill.wav.flat",
+        "source": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\src\\main\\res\\raw\\the_kill.wav"
+    },
+    {
+        "merged": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\build\\intermediates\\res\\merged\\debug\\raw_metro_bar1.wav.flat",
+        "source": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\src\\main\\res\\raw\\metro_bar1.wav"
+    },
+    {
+        "merged": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\build\\intermediates\\res\\merged\\debug\\raw_short_bar.wav.flat",
+        "source": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\src\\main\\res\\raw\\short_bar.wav"
+    },
+    {
+        "merged": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_dropdown.xml.flat",
+        "source": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\src\\main\\res\\layout\\spinner_dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup_sound_menu.xml.flat",
+        "source": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\src\\main\\res\\menu\\popup_sound_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup_menu.xml.flat",
+        "source": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\src\\main\\res\\menu\\popup_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\build\\intermediates\\res\\merged\\debug\\raw_metro_beat1.wav.flat",
+        "source": "C:\\Users\\eX_Di\\AndroidStudioProjects\\Metronomic\\Metronomic\\app\\src\\main\\res\\raw\\metro_beat1.wav"
+    }
+]

@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/quarter"
+        android:title="1/4"/>
+
+    <item
+        android:id="@+id/eight"
+        android:title="1/8"/>
+
+    <item
+        android:id="@+id/sixteen"
+        android:title="1/16"/>
+
+    <item
+        android:id="@+id/eightTrip"
+        android:title="1/8 Triplets"/>
+
+    <item
+        android:id="@+id/sixteenTrip"
+        android:title="1/16 Triplets"/>
+
+</menu>

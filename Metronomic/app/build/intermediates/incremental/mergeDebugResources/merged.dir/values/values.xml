@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="yellow">#DEE054</color>
+    <string name="app_name">Beat Keeper</string>
+    <string name="bps">bps</string>
+    <string name="dash">/</string>
+    <string name="minus">-</string>
+    <string name="one">1</string>
+    <string name="plus">+</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="timesignature">time signature</string>
+    <string name="volume">volume</string>
+    <style name="Theme.MyTheme" parent="@android:style/Theme.Black"/>
+</resources>
